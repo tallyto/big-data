@@ -20,8 +20,8 @@ O Sistema de Gerenciamento de Cancelamentos é uma aplicação em Python que ofe
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/big-data/cancelamentos.git
-   cd cancelamentos
+   git clone https://github.com/tallyto/big-data.git
+   cd big-data/cancelamentos
    ```
 
 2. **Instale as Dependências:**
